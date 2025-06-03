@@ -1,2 +1,2 @@
 # LSEG-Tech-challenge
-LSEG Tech challenge for NANDUNI UPENDRA
+Coding challenge to debug and improve a user creation script
