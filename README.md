@@ -1,5 +1,4 @@
-# LSEG-Tech-challenge
-## User Creation Script - Support Engineer Coding Challenge
+# User Creation Script - Support Engineer Coding Challenge
 
 ## Overview
 Automates user account creation from CSV via HTTP POST. Includes error handling and field validation.
